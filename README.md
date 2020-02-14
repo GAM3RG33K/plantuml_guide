@@ -66,4 +66,5 @@ The final command should look like this:
 
 
 ## Notes:
-My setup is in a Windows environment with my specific requirements, so some specific steps might not work with your system. Please adjust the settings according to your own sytem and requirements.
+ - My setup is in a Windows environment with my specific requirements, so some specific steps might not work with your system. Please adjust the settings according to your own sytem and requirements.
+  - Please use latest plantuml jar from the original project to keep everything in sync and working
